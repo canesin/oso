@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Check links in docs
         id: lychee
-        uses: lycheeverse/lychee-action@v1.0.4
+        uses: lycheeverse/lychee-action@v2.0.2
         with:
           args: '--verbose --no-progress "./docs/content/**/*.md" --exclude "\w+@\w+\.com" --exclude "localhost|127.0.0.1" --exclude "^sqlite://" --exclude "https://crates.io/crates" --exclude "https://medium.com/"'
       - name: Fail if there were link errors
