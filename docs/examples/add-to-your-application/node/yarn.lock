@@ -944,7 +944,7 @@ osenv@0, osenv@^0.1.4:
     os-tmpdir "^1.0.0"
 
 "oso@file:../../../../languages/js":
-  version "0.25.0"
+  version "0.27.3"
   dependencies:
     lodash.isequal "^4.5.0"
 
@@ -1407,9 +1407,9 @@ uuid@^8.1.0:
   integrity sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==
 
 validator@^13.6.0:
-  version "13.6.0"
-  resolved "https://registry.yarnpkg.com/validator/-/validator-13.6.0.tgz#1e71899c14cdc7b2068463cb24c1cc16f6ec7059"
-  integrity sha512-gVgKbdbHgtxpRyR8K0O6oFZPhhB5tT1jeEHZR0Znr9Svg03U0+r9DXWMrnRAB+HtCStDQKlaIZm42tVsVjqtjg==
+  version "13.15.20"
+  resolved "https://registry.yarnpkg.com/validator/-/validator-13.15.20.tgz#054e9238109538a1bf46ae3e1290845a64fa2186"
+  integrity sha512-KxPOq3V2LmfQPP4eqf3Mq/zrT0Dqp2Vmx2Bn285LwVahLc+CsxOM0crBHczm8ijlcjZ0Q5Xd6LW3z3odTPnlrw==
 
 vary@~1.1.2:
   version "1.1.2"
